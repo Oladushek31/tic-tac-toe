@@ -1,0 +1,10 @@
+D:\Yours\Программирование\Visual Studio\GamePr\GamePr\bin\Debug\GamePr.exe.config
+D:\Yours\Программирование\Visual Studio\GamePr\GamePr\bin\Debug\GamePr.exe
+D:\Yours\Программирование\Visual Studio\GamePr\GamePr\bin\Debug\GamePr.pdb
+D:\Yours\Программирование\Visual Studio\GamePr\GamePr\obj\Debug\GamePr.csproj.AssemblyReference.cache
+D:\Yours\Программирование\Visual Studio\GamePr\GamePr\obj\Debug\GamePr.Form1.resources
+D:\Yours\Программирование\Visual Studio\GamePr\GamePr\obj\Debug\GamePr.Properties.Resources.resources
+D:\Yours\Программирование\Visual Studio\GamePr\GamePr\obj\Debug\GamePr.csproj.GenerateResource.cache
+D:\Yours\Программирование\Visual Studio\GamePr\GamePr\obj\Debug\GamePr.csproj.CoreCompileInputs.cache
+D:\Yours\Программирование\Visual Studio\GamePr\GamePr\obj\Debug\GamePr.exe
+D:\Yours\Программирование\Visual Studio\GamePr\GamePr\obj\Debug\GamePr.pdb
